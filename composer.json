@@ -1,5 +1,5 @@
 {
-    "name": "paytm/paytmchecksum",
+    "name": "dharmendra/paytm/paytmchecksum",
     "description": "This is for paytm checksum creation and verification in PHP",
     "keywords": [  "Paytm", "Checksum", "Paytm PHP", "Paytm checksum", "Paytm signature", "Signature", "Paytm payment"],
     "type": "library",
@@ -16,7 +16,7 @@
         "ext-curl": "*",
         "ext-openssl": "*",
         "netresearch/jsonmapper": "^1.4",
-        "monolog/monolog": "^1.24"
+        "monolog/monolog": "^1.24.0"
     },
  "autoload": {
         "psr-4": {"paytm\\paytmchecksum\\": "paytmchecksum/"}
