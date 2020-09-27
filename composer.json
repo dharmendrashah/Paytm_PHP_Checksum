@@ -1,5 +1,5 @@
 {
-    "name": "dharmendra/paytm/paytmchecksum",
+    "name": "paytm/paytmchecksum",
     "description": "This is for paytm checksum creation and verification in PHP",
     "keywords": [  "Paytm", "Checksum", "Paytm PHP", "Paytm checksum", "Paytm signature", "Signature", "Paytm payment"],
     "type": "library",
